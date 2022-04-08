@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @reynanc
 - 👀 I’m interested in programação
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Java e C++
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me Recife-PE,Brasil
 
 <!---
 reynanc/reynanc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
