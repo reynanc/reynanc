@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reynanc
 - 👀 I’m interested in programação
-- 🌱 I’m currently learning Java e C++
+- 🌱 I’m currently learning HTML e C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Recife-PE,Brasil
 
