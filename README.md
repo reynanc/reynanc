@@ -1,4 +1,6 @@
-<h1 align="center">Olá, pessoal! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9333EA&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jos%C3%A9+Reynan!;Apaixonado+por+tecnologia.;Sempre+aprendendo+e+evoluindo." alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reynancavalcanti/" target="_blank">
