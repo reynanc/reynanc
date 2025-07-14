@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9333EA&center=true&width=435&lines=Ol%C3%A1%2C+eu+sou+o+Jos%C3%A9+Reynan!;Apaixonado+por+tecnologia.;Sempre+aprendendo+e+evoluindo." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9333EA&center=true&width=435&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Jos%C3%A9+Reynan!;Apaixonado+por+tecnologia.;Sempre+aprendendo+e+evoluindo." alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
