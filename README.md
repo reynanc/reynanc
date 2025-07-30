@@ -10,7 +10,6 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=reynanc&style=flat-square&color=blue" alt="Contador de Visualizações"/>
 </p>
 
 <div align="center">
