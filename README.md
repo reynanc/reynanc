@@ -39,15 +39,6 @@ Sou apaixonado por tecnologia e estou em constante evolução, atualmente focado
 
 ---
 
-## 📊 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reynanc&show_icons=true&theme=dark&hide_title=true&cache_seconds=1800"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynanc&layout=compact&theme=dark"/>
-</div>
-
----
-
 <div align="center">
   
   ### 💬 Vamos conversar sobre tecnologia!
