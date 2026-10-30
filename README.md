@@ -7,16 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=reynanc2&style=flat-square&color=red" alt="Contador de Visualizações"/>
 </p>
 
-<div align="center">
-  
-  📚 **Analista de Sistemas em formação...** | 💻 **Desenvolvedor Jr** | 🐍 **Focado em Python/Django**
-  
-</div>
-
-<p align="center">
-Sou apaixonado por tecnologia e estou em constante evolução, atualmente focado em me tornar um <strong>Analista de Sistemas</strong> qualificado. Tenho paixão por <strong>Desenvolvimento Full-Stack</strong> e estou aprimorando minhas habilidades em <strong>Python</strong> e <strong>Django</strong>.
-</p>
-
 ---
 
 ## 🚀 Linguagens e Ferramentas
