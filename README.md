@@ -27,8 +27,6 @@
   
   ### 💬 Vamos conversar sobre tecnologia!
   
-  🔍 Interessado em colaborações ou tem alguma dúvida? Entre em contato!
-  
   [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reynancavalcanti/)
   
 </div>
