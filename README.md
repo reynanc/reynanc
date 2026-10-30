@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/reynancavalcanti/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <br />
   <img src="https://komarev.com/ghpvc/?username=reynanc2&style=flat-square&color=red" alt="Contador de Visualizações"/>
 </p>
