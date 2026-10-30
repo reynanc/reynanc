@@ -57,29 +57,6 @@ Dica: use as imagens oficiais das badges (Credly, Cisco, Alura etc.).
 ---
 -->
 
-## 🚀 Tecnologias & Ferramentas
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,flask,django,html,css,js,linux,docker,mysql,oracle,git,github,vscode,bash&theme=dark" alt="Tecnologias" />
-  </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reynanc2&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=9333EA&icon_color=9333EA&text_color=c9d1d9" alt="Estatísticas" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reynanc2&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=9333EA&text_color=c9d1d9" alt="Linguagens mais usadas" />
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=reynanc2&theme=radical&hide_border=true&background=0d1117&ring=9333EA&fire=9333EA&currStreakLabel=9333EA" alt="Streak" />
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reynanc2&bg_color=0d1117&color=9333EA&line=9333EA&point=ffffff&area=true&hide_border=true" alt="Gráfico de atividade" />
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=reynanc2&style=flat-square&color=9333EA&label=VISUALIZA%C3%87%C3%95ES" alt="Contador de Visualizações"/>
-</div>
-
 ---
 
 ## 📫 Conecte-se comigo
@@ -88,19 +65,4 @@ Dica: use as imagens oficiais das badges (Credly, Cisco, Alura etc.).
   <a href="https://www.linkedin.com/in/reynancavalcanti/">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:seu.email@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-</p>
-
----
-
-## 🕹️ Contribuições em forma de Pac-Man
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reynanc2/reynanc2/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reynanc2/reynanc2/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/reynanc2/reynanc2/output/pacman-contribution-graph-dark.svg">
-  </picture>
 </p>
